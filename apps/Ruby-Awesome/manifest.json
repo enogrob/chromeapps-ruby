@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Awesome",
+  "description": "Access Ruby Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://awesome-ruby.com/"
+    ],
+    "launch": {
+      "web_url": "http://awesome-ruby.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rubocop",
+  "description": "Access Rubocop",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubocop.org/"
+    ],
+    "launch": {
+      "web_url": "https://rubocop.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

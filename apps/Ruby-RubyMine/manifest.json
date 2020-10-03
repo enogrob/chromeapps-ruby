@@ -1,0 +1,17 @@
+{
+  "name": "RubyMine",
+  "description": "Access RubyMine",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.jetbrains.com/ruby/"
+    ],
+    "launch": {
+      "web_url": "https://www.jetbrains.com/ruby/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

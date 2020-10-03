@@ -1,0 +1,17 @@
+{
+  "name": "RubyFLOW",
+  "description": "Access RubyFLOW",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.rubyflow.com/"
+    ],
+    "launch": {
+      "web_url":"http://www.rubyflow.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

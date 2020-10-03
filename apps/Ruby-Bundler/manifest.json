@@ -1,0 +1,17 @@
+{
+  "name": "Bundler",
+  "description": "Access Bundler",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://bundler.io/"
+    ],
+    "launch": {
+      "web_url": "http://bundler.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

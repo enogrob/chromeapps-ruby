@@ -1,0 +1,17 @@
+{
+  "name": "RubyCritic",
+  "description": "Access RubyCritic",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/whitesmith/rubycritic"
+    ],
+    "launch": {
+      "web_url": "https://github.com/whitesmith/rubycritic"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

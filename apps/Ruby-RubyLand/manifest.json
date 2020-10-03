@@ -1,0 +1,17 @@
+{
+  "name": "RubyLand",
+  "description": "Access RubyLand",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubyland.news/"
+    ],
+    "launch": {
+      "web_url": "http://rubyland.news/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

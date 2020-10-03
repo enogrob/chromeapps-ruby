@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Wikipedia",
+  "description": "Access Ruby Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://en.wikipedia.org/wiki/Ruby_(programming_language)"
+    ],
+    "launch": {
+      "web_url":"http://en.wikipedia.org/wiki/Ruby_(programming_language)"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

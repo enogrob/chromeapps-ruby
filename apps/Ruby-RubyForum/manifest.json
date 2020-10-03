@@ -1,0 +1,17 @@
+{
+  "name": "RubyForum",
+  "description": "Access RubyForum",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.ruby-forum.com/"
+    ],
+    "launch": {
+      "web_url":"https://www.ruby-forum.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

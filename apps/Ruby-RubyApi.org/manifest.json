@@ -1,0 +1,17 @@
+{
+  "name": "RubyApi.org",
+  "description": "Access RubyAPI.org",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubyapi.org/"
+    ],
+    "launch": {
+      "web_url": "https://rubyapi.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Toolbox",
+  "description": "Acess Ruby Toolbox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.ruby-toolbox.com"
+    ],
+    "launch": {
+      "web_url": "https://www.ruby-toolbox.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
