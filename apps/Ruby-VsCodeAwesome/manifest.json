@@ -1,0 +1,17 @@
+{
+  "name": "Vscode Awesome",
+  "description": "Access Vscode Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://viatsko.github.io/awesome-vscode"
+    ],
+    "launch": {
+      "web_url": "https://viatsko.github.io/awesome-vscode"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
