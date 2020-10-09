@@ -1,0 +1,17 @@
+{
+  "name": "WebCrunch",
+  "description": "Access WebCrunch",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://web-crunch.com/"
+    ],
+    "launch": {
+      "web_url": "https://web-crunch.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

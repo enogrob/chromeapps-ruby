@@ -1,0 +1,17 @@
+{
+  "name": "StatusCodeWeekly",
+  "description": "Access StatusCodeWeekly",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://weekly.statuscode.com/latest"
+    ],
+    "launch": {
+      "web_url": "https://weekly.statuscode.com/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
