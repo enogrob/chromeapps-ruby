@@ -1,0 +1,17 @@
+{
+  "name": "Rubies.io",
+  "description": "Access Rubies.io",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubies.io/"
+    ],
+    "launch": {
+      "web_url": "https://rubies.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
