@@ -1,0 +1,17 @@
+{
+  "name": "RubyPacker",
+  "description": "Access RubyPacker",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://enclose.io/"
+    ],
+    "launch": {
+      "web_url": "https://enclose.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
