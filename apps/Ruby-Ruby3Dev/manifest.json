@@ -1,0 +1,17 @@
+{
+  "name": "Ruby3Dev",
+  "description": "Access Ruby3Dev",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.ruby3.dev/"
+    ],
+    "launch": {
+      "web_url": "https://www.ruby3.dev/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
