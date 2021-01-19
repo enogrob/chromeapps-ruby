@@ -1,0 +1,17 @@
+{
+  "name": "Ruby On Jets",
+  "description": "Access Ruby On Jets",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubyonjets.com/"
+    ],
+    "launch": {
+      "web_url": "https://rubyonjets.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
