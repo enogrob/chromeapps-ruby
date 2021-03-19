@@ -1,0 +1,17 @@
+{
+  "name": "RubyConf",
+  "description": "Access RubyConf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubyconf.org/"
+    ],
+    "launch": {
+      "web_url":"https://rubyconf.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
