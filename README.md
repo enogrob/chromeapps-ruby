@@ -29,23 +29,35 @@ $ tree -L 1 apps/
 apps
 ├── Ruby-API
 ├── Ruby-Awesome
+├── Ruby-AwesomeWeekly
 ├── Ruby-Bundler
 ├── Ruby-Homepage
 ├── Ruby-Pry
-├── Ruby-RVM
+├── Ruby-Rubies.io
 ├── Ruby-Rubocop
+├── Ruby-Ruby3Dev
 ├── Ruby-RubyApi.org
+├── Ruby-RubyCentral
+├── Ruby-RubyConf
 ├── Ruby-RubyCritic
 ├── Ruby-RubyFLOW
 ├── Ruby-RubyForum
 ├── Ruby-RubyGems
 ├── Ruby-RubyLand
 ├── Ruby-RubyMine
+├── Ruby-RubyOnJets
+├── Ruby-RubyPacker
+├── Ruby-RubyRepl
 ├── Ruby-RubyWeekly
 ├── Ruby-RubyWikipedia
-└── Ruby-Toolbox
+├── Ruby-RVM
+├── Ruby-StatusCodeWeekly
+├── Ruby-Toolbox
+├── Ruby-VsCode
+├── Ruby-VsCodeAwesome
+└── Ruby-WebCrunch
 
-17 directories, 0 files
+29 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
