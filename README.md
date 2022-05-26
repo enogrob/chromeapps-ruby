@@ -18,17 +18,17 @@ As we can see a subdirectory is created for each Ruby app.
 
 ```bash
 $ ls -la
-total 984
-drwxr-xr-x@   8 enogrob  staff    272 Oct  3 17:06 .
-drwxr-xr-x@ 297 enogrob  staff  10098 Oct  3 17:06 ..
--rw-r--r--@   1 enogrob  staff   6148 Oct  3 16:58 .DS_Store
--rw-r--r--    1 enogrob  staff      5 May 31  2016 .gitignore
--rw-r--r--@   1 enogrob  staff      0 Nov 17  2016 Icon?
--rw-r--r--@   1 enogrob  staff   1886 Oct  3 17:11 README.md
-drwxr-xr-x   19 enogrob  staff    646 Oct  3 17:08 apps
-drwxr-xr-x    4 enogrob  staff    136 Oct  3 17:09 images
+total 44
+drwxrwxr-x   7 rnogueira rnogueira 4096 mai 26 02:54  .
+drwxrwxr-x 107 rnogueira rnogueira 4096 mai 22 20:33  ..
+drwxrwxr-x  39 rnogueira rnogueira 4096 mai 26 02:54  apps
+:
+drwxrwxr-x   2 rnogueira rnogueira 4096 mai 26 02:48  images
+-rw-rw-r--   1 rnogueira rnogueira 2358 mai 26 02:55  README.md
+drwxrwxr-x   2 rnogueira rnogueira 4096 mai 26 02:45  resources
 
 $ tree -L 1 apps/
+apps
 apps
 ├── Ruby-API
 ├── Ruby-Awesome
@@ -36,6 +36,14 @@ apps
 ├── Ruby-Bundler
 ├── Ruby-Homepage
 ├── Ruby-Pry
+├── Ruby-RailsAPI
+├── Ruby-RailsConf
+├── Ruby-RailsDHH
+├── Ruby-RailsHomepage
+├── Ruby-RailsHotwire
+├── Ruby-RailsRailsGuides
+├── Ruby-RailsStimulusReflex
+├── Ruby-RailsWikipedia
 ├── Ruby-Rubies.io
 ├── Ruby-Rubocop
 ├── Ruby-Ruby3Dev
@@ -60,7 +68,8 @@ apps
 ├── Ruby-VsCodeAwesome
 └── Ruby-WebCrunch
 
-29 directories, 0 files
+37 directories, 0 files
+
 
 # in order to open Files in "Linux" to drag the App folders if wanted.
 $ cd apps
