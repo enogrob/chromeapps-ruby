@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://enclose.io/"
+      "https://github.com/pmq20/ruby-packer"
     ],
     "launch": {
-      "web_url": "https://enclose.io/"
+      "web_url": "https://github.com/pmq20/ruby-packer"
     }
   },
   "icons": {
